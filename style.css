@@ -4,12 +4,14 @@
 
 body {
   background-color: lightcyan;
+  width: 100%
   font-family: "Tangerine", sanserif;
   padding: 40px 40px;
   font-size: 18px;
   margin: 0;
   color: #443;
 }
+#centerContainer { width: 900px; text-align: left; margin: 0px auto; }
 
 h1 {
   font-family: "Tangerine", serif;
@@ -40,6 +42,3 @@ a:hover {
 .heading {
   float:left;
 }
-
-body { width: 100%; text-align: center; }
-#centerContainer { width: 900px; text-align: left; margin: 0px auto; }
